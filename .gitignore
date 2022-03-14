@@ -12,6 +12,9 @@
 *.dtb.S
 *.dtb.*.tmp
 *.8
+.DS_Store
+.idea
+.idea/*
 .cache.mk
 Module.symvers
 modules.order
