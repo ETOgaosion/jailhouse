@@ -13,6 +13,7 @@
 *.dtb.*.tmp
 *.8
 .DS_Store
+*/.DS_Store
 .idea
 .idea/*
 .cache.mk
